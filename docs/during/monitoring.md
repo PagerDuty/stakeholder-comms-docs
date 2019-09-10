@@ -1,7 +1,6 @@
 ---
 cover:
 description: Messaging guidelines to follow during the incident Investigation phase
-
 ---
 ![Monitoring](../assets/img/headers/Stakeholder_Monitoring.png)
 
@@ -18,10 +17,9 @@ Elements to include in an update during the Monitoring phase are:
 - Observed customer impact update (whatever is known right now)
 - Time the incident started
 - Description of the issue detected
-- Where to find more information 
+- Where to find more information
 - When to expect another update
 
 An example of a status update during the Monitoring phase is:
 
 > “As of 8:55PM PDT, we believe the Rift was sealed by the interdimensional laser machine. The Containment Field should now be restored. Customers should no longer be at risk of abduction. We are currently monitoring the situation. We have not received reports of any additional customer abductions, however if your customers are still seeing Demogorgans in their waking dreams, please join the #hawkins-incident channel to report the issue immediately. Expect another update within 30 minutes.”
-

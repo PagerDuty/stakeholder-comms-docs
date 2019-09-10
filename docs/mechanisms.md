@@ -1,7 +1,6 @@
 ---
 cover:
 description: A look at different mechanisms for distributing stakeholder communications
-
 ---
 ![Mechanisms](../assets/img/headers/Stakeholder_Mechanisms.png)
 
@@ -30,4 +29,3 @@ Typically presented as a web page, a status page allows stakeholders to view cur
 Unlike push notification systems, a status page relies on users pulling status information when they need it. Users may also be able to subscribe to updates about specific services and specify their notification preferences (e.g. SMS text, email, etc). A status page allows stakeholders the flexibility to either poll the status of an incident at any time using a dedicated channel or get push notifications as they see fit.
 
 A challenge with status pages is that your stakeholders are responsible for managing their notification subscriptions and preferences.
-

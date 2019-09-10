@@ -1,7 +1,6 @@
 ---
 cover:
 description: Messaging guidelines to follow during the incident Investigation phase
-
 ---
 ![Investigation](../assets/img/headers/Stakeholder_Investigation.png)
 

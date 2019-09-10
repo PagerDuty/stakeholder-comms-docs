@@ -1,7 +1,6 @@
 ---
 cover:
 description: Considerations for how frequently internal stakeholder communications are distributed
-
 ---
 ![Templates](../assets/img/headers/Stakeholder_Frequency.png)
 
@@ -18,4 +17,3 @@ In 30 minutes, if nothing has changed, rather than posting that same message aga
 > We are continuing to work on restoring service X. In the meantime advise any customers to use workaround Y until this issue is resolved.
 
 You may not have identified a workaround during this time, nor are we suggesting you prioritize doing so instead of working to resolve the incident. But throughout the course of an ongoing incident, typically some helpful bit of additional information is discovered that can be useful if passed along to stakeholders. These updates, when the incident status still hasn’t changed, are good opportunities to do so.
-
