@@ -1,7 +1,6 @@
 ---
 cover:
 description: A look at using templates to capture boilerplate bits of messaging
-
 ---
 ![Templates](../assets/img/headers/Stakeholder_Templates.png)
 
@@ -26,4 +25,3 @@ Other details relevant to internal stakeholders are known _*well in advance*_ of
 - How often to expect updates
 
 The exact specifics for what belongs in your templates depends not just on the needs of your stakeholders, but also on the communication mechanism you've chosen to use for distribution. Some mechanisms, like SMS notifications, may have practical limits on message length. If you have to limit the length of notifications, let your stakeholders know where to go for more detailed information (email, status page, chat, etc).
-

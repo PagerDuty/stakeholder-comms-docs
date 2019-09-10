@@ -1,7 +1,6 @@
 ---
 cover:
 description: Basic definitions for a common understanding in this document
-
 ---
 ![Definitions](../assets/img/headers/Stakeholder_Definitions.png)
 
@@ -16,4 +15,3 @@ This term is used to encompass the communications and notifications sent only to
 
 ## The Internal Liaison
 An [Internal Liaison](https://response.pagerduty.com/before/different_roles/#internal-liaison) is the person responsible for managing internal stakeholder communication. Sometimes the responsibilities of an Internal Liaison get merged with those of a [Customer Liaison](https://response.pagerduty.com/before/different_roles/#customer-liaison) and the duties are collectively referred to as a “Communications Liaison.” In either case, this guide applies to the duties of generating internal stakeholder communications during a major incident and labels that role as the Internal Liaison.
-

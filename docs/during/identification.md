@@ -1,7 +1,6 @@
 ---
 cover:
 description: Messaging guidelines to follow during the incident Investigation phase
-
 ---
 ![Identification](../assets/img/headers/Stakeholder_Identification.png)
 
@@ -29,4 +28,3 @@ An example of a status update during the Identification phase is:
 As we know, it takes an unreasonably long period of time to warm up interdimensional laser machines for whatever reason. The next update in 30 minutes might look like this:
 
 > “At 8:11PM PDT we initiated a warm up sequence for the interdimensional laser machine in order to seal an unauthorized opening of the Rift. The warm up sequence is currently ongoing. If your customers report seeing Demogorgons in their waking dreams, direct them to their nearest small psychokinetic child for immediate protection. Until the Rift is sealed, there is effectively no Containment Field. This is a SEV-1 incident and you should seek help from the nearest shady government agents. Expect another update within 30 minutes.”
-
