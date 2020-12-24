@@ -2,7 +2,7 @@
 cover:
 description: A look at using templates to capture boilerplate bits of messaging
 ---
-![Templates](../assets/img/headers/Stakeholder_Templates.png)
+![Templates](../assets/img/headers/SHComms-Template.png)
 
 !!! tip
     For this section, it helps to refer back to past examples of stakeholder communications that were considered effective and

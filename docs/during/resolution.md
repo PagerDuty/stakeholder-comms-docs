@@ -2,7 +2,7 @@
 cover:
 description: Messaging guidelines to follow during the incident Investigation phase
 ---
-![Resolution](../assets/img/headers/Stakeholder_Resolution.png)
+![Resolution](../assets/img/headers/SHComms-Resolution.png)
 
 Once a remediation is confirmed to have been successful and the issue no longer persists, the incident has reached the Resolution phase. A final status update should be sent to stakeholders.
 

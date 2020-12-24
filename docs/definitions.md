@@ -2,7 +2,7 @@
 cover:
 description: Basic definitions for a common understanding in this document
 ---
-![Definitions](../assets/img/headers/Stakeholder_Definitions.png)
+![Definitions](../assets/img/headers/SHComms-Definitions.png)
 
 !!! tip
     This guide presumes that your organization has a technical incident response plan already in place. The functions and roles described in this guide build on those already introduced when managing technical incident response. While this guide can be used independently, it is helpful to have familiarity with those concepts before proceeding.

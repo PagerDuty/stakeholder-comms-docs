@@ -2,7 +2,7 @@
 cover:
 description: Messaging guidelines to follow during the incident Investigation phase
 ---
-![Identification](../assets/img/headers/Stakeholder_Identification.png)
+![Identification](../assets/img/headers/SHComms-Identification.png)
 
 An incident moves to the identification phase once the suspected contributing factor(s) has been identified, but not yet resolved. When composing this message, prioritize any message elements that have not yet been communicated in previous updates. For example, if the incident start time was in the last update, it is of lower priority than any new yet to be presented information in this update. If you must trim the length of your update due to technical limitations, choose message elements based on priority.
 
