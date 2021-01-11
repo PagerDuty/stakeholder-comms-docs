@@ -16,10 +16,10 @@ Elements to include in an update during the Investigation phase are:
 - Description of the issue detected
 - Business service(s) affected
 - Customer impact, if known
-- Next steps for stakeholders (e.g. join a chat channel, incident bridge, standby for updates, etc)
-- Where to find more information (i.e. chat channel, email, status page, etc)
+- Next steps for stakeholders (e.g., join a chat channel, incident bridge, standby for updates)
+- Where to find more information (e.g., chat channel, email, status page)
 - When to expect another update
 
 An example of a status update during the Investigation phase is:
 
-> "At 7:59PM PDT an error condition was detected in the interdimensional gate to the Upside Down (the Rift). Some customers may be abducted by Demogorons during this time. We are currently investigating. Join the #stakeholder-updates chat channel or join the incident by phone at 1-888-OMG-FUBAR to observe. Expect another update within 30 minutes.”
+> "At 7:59PM PDT an error condition was detected in the interdimensional gate to the Upside Down (the Rift). Some customers may be abducted by Demogorgons during this time. We are currently investigating. Join the #stakeholder-updates chat channel or join the incident by phone at 1-888-OMG-FUBAR to observe. Expect another update within 30 minutes.”
