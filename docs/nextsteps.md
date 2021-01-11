@@ -1,7 +1,7 @@
 
 ![Next Steps](../assets/img/headers/SHComms-NextSteps.png)
 
-Although the practices we've talked about are effective no matter what platform you’re using, it can help to see how these concepts are applied in practice. This section shows how PagerDuty can be used to practice the steps recommended in this guide.
+Although the practices we've talked about are effective no matter what platform you’re using, it can help to see how these concepts are applied in practice. This section shows how PagerDuty can be used facilitate effective communication with stakeholders.
 
 !!! tip
     If you are currently searching for a solution and are not a PagerDuty customer, you can sign up for a [14-day free trial](https://www.pagerduty.com/sign-up-free/?type=free). This section is here to help PagerDuty customers correctly configure their stakeholder users, with steps on how to set those users up, as well as how to set up their contact methods, and we'll also cover what is expected of a stakeholder.
