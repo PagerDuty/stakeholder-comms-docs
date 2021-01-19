@@ -2,7 +2,7 @@
 cover:
 description: A look at different mechanisms for distributing stakeholder communications
 ---
-![Mechanisms](../assets/img/headers/Stakeholder_Mechanisms.png)
+![Mechanisms](../assets/img/headers/SHComms-Mechanisms.png)
 
 The key to effective internal stakeholder communications is ensuring that your stakeholders actually see your communications. Incident update notifications can be sent over a variety of channels. While it may be tempting to solve the problem of getting stakeholder attention by blasting updates to every possible channel, the risk of doing so is creating duplicate notifications that are ultimately just treated as noise. You should choose the most effective channel for making incident update notifications visible to your stakeholders and work to minimize the possibility of duplicating notifications by using multiple channels.
 

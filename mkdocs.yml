@@ -43,7 +43,9 @@ pages:
       - Identification phase: 'during/identification.md'
       - Monitoring phase: 'during/monitoring.md'
       - Resolution phase: 'during/resolution.md'
-
+  - Next Steps: 'nextsteps.md'
+  - Additional Resources: 'resources.md'
+  
 # Analytics
 google_analytics: ['UA-8759953-1', 'auto']
 

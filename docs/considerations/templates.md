@@ -2,13 +2,23 @@
 cover:
 description: A look at using templates to capture boilerplate bits of messaging
 ---
-![Templates](../assets/img/headers/Stakeholder_Templates.png)
+![Templates](../assets/img/headers/SHComms-Template.png)
 
 !!! tip
     For this section, it helps to refer back to past examples of stakeholder communications that were considered effective and
     useful. Look for the patterns in those messages as a starting place for determining internal stakeholder messaging needs.
 
-In order to be effective during an incident, internal stakeholder communications must be both accurate and fast. Templatizing and automating notifications ahead of a major incident can help you move fast and minimize errors. For example, emails can be generated from templates that include boilerplate language to use when talking to customers about an incident, helpful resources that recipients can use to drill down for more information, or other information handy for helping them understand how to react to the incident. Templates can include things like links to incident details, links to internal status pages, and information about how to join the incident response chat channel or call bridge.
+In order to be effective during an incident, internal stakeholder communications must be both accurate and fast. Templatizing and automating notifications ahead of a major incident can help you move fast and minimize errors. 
+
+For example, emails can be generated from templates that include: 
+- Boilerplate language to use when talking to customers about an incident 
+- Helpful resources that recipients can use to drill down for more information 
+- Other information handy for helping them understand how to react to the incident. 
+
+Templates can include things like: 
+- Links to incident details
+- Links to internal status pages
+- Information about how to join the incident response chat channel or call bridge.
 
 Making communication templates may seem tricky to some because many incident details aren’t known in advance. For those unknowable details, create placeholders in your templates. Incident detail placeholders may include things like:
 
@@ -19,7 +29,7 @@ Making communication templates may seem tricky to some because many incident det
 
 Other details relevant to internal stakeholders are known _*well in advance*_ of an incident and these boilerplate items can be statically included in your templates. These details may change depending on the service, so you may have one template per service or per variation of known failure modes within a service. Templates can contain static details for items like:
 
-- Where to find more information (e.g. incident response chat channel, call bridge, etc)
+- Where to find more information (e.g., incident response chat channel, call bridge)
 - The location of a service status page
 - How to respond when customers asking you for more details
 - How often to expect updates

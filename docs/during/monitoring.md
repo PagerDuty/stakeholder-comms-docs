@@ -2,7 +2,7 @@
 cover:
 description: Messaging guidelines to follow during the incident Investigation phase
 ---
-![Monitoring](../assets/img/headers/Stakeholder_Monitoring.png)
+![Monitoring](../assets/img/headers/SHComms-Monitoring.png)
 
 The monitoring stage occurs when a remediation has taken place, but an incident has not yet been verified to be resolved. During the monitoring stage, incident responders will validate and confirm the fix was successful.
 
@@ -22,4 +22,4 @@ Elements to include in an update during the Monitoring phase are:
 
 An example of a status update during the Monitoring phase is:
 
-> “As of 8:55PM PDT, we believe the Rift was sealed by the interdimensional laser machine. The Containment Field should now be restored. Customers should no longer be at risk of abduction. We are currently monitoring the situation. We have not received reports of any additional customer abductions, however if your customers are still seeing Demogorgans in their waking dreams, please join the #hawkins-incident channel to report the issue immediately. Expect another update within 30 minutes.”
+> “As of 8:55PM PDT, we believe the Rift was sealed by the interdimensional laser machine. The Containment Field should now be restored. Customers should no longer be at risk of abduction. We are currently monitoring the situation. We have not received reports of any additional customer abductions, however if your customers are still seeing Demogorgons in their waking dreams, please join the #hawkins-incident channel to report the issue immediately. Expect another update within 30 minutes.”

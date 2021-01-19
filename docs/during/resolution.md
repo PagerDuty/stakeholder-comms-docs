@@ -2,7 +2,7 @@
 cover:
 description: Messaging guidelines to follow during the incident Investigation phase
 ---
-![Resolution](../assets/img/headers/Stakeholder_Resolution.png)
+![Resolution](../assets/img/headers/SHComms-Resolution.png)
 
 Once a remediation is confirmed to have been successful and the issue no longer persists, the incident has reached the Resolution phase. A final status update should be sent to stakeholders.
 
@@ -20,4 +20,4 @@ Elements to include in an update during the Resolution phase are:
 
 An example of a status update during the Resolution phase is:
 
-> ”At 9:01PM PDT, we confirmed the Rift is sealed and the Containment Field has been restored. Security detected an intruder alert approximately 10 minutes prior to the initial error detected in the Rift. The intruders have been identified as a set of ‘pesky kids.’ If you see any pesky kids, or if you get reports of anyone continuing to see Demogorgons in their waking dreams, join the #hawkins-incident channel and immediately trigger a new incident. For incident follow ups and postmortem updates, please join the #season4 channel.”
+> ”At 9:01PM PDT, we confirmed the Rift is sealed and the Containment Field has been restored. Security detected an intruder alert approximately 10 minutes prior to the initial error detected in the Rift. The intruders have been identified as a set of "pesky kids." If you see any pesky kids, or if you get reports of anyone continuing to see Demogorgons in their waking dreams, join the #hawkins-incident channel and immediately trigger a new incident. For incident follow-ups and postmortem updates, please join the #season4 channel.”

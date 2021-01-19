@@ -1,8 +1,8 @@
-![PagerDuty](../assets/img/headers/Stakeholders_Header.png)
+![PagerDuty](../assets/img/headers/SHComms-Title.png)
 
 Technical incidents can create chaos when stakeholder notifications are not effectively managed in an organization. During an incident, internal stakeholder communications proactively provide situational awareness and transparency around its customer impact. This guide provides a framework of critical recommended practices that can be used to help you create your own process for composing and distributing internal stakeholder communications during technical incidents.
 
-The process outlined in this document is best when used as a supplement to our [Incident Response  Guide](https://response.pagerduty.com), but we recommend also using it in tandem with a broader strategy around managing [business incident response](https://business-response.pagerduty.com). This operational guide is useful for any person or team that manages internal stakeholder communications during an incident. 
+The process outlined in this document is best when used as a supplement to our [Incident Response  Guide](https://response.pagerduty.com), but we recommend also using it in tandem with a broader strategy around managing [business incident response](https://business-response.pagerduty.com). This operational guide is useful for any person or team that manages internal stakeholder communications during an incident.
 
 ## Prerequisites
 This guide presumes that your organization has a technical incident response plan already in place. The functions and roles described in this guide build on those already introduced when managing technical [incident response](https://response.pagerduty.com). While this guide can be used independently, it is helpful to have familiarity with those concepts before proceeding.
@@ -34,6 +34,9 @@ This section provides real-time considerations for stakeholder communications du
   - [Identification phase](during/identification.md)
   - [Monitoring phase](during/monitoring.md)
   - [Resolution phase](during/resolution.md)
+
+### Getting your team started with stakeholder communications.
+- [Next Steps](nextsteps.md)
 
 ## License
 
