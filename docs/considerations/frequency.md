@@ -2,7 +2,7 @@
 cover:
 description: Considerations for how frequently internal stakeholder communications are distributed
 ---
-![Frequency](../assets/img/headers/SHComms-Frequency.png)
+![Frequency](/assets/images/headers/SHComms-Frequency.png)
 
 With each notification, set an expectation for communication frequency. Tell your stakeholders the maximum allotted time before which they’ll receive another update. For example, saying “we will post an update within 30 minutes,” means that they might receive an update sooner if something about the situation changes. But if nothing changes, they will at least receive another update 30 minutes from now. In this example, it isn’t necessary to append text to say something like “or whenever new developments occur.” Make your updates as succinct as possible.
 

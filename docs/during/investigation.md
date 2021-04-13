@@ -2,7 +2,7 @@
 cover:
 description: Messaging guidelines to follow during the incident Investigation phase
 ---
-![Investigation](../assets/img/headers/SHComms-Investigation.png)
+![Investigation](/assets/images/headers/SHComms-Investigation.png)
 
 !!! tip
     Updates will vary based on where the incident is in its lifecycle. For the purposes of this document, we will focus on the phases during an incident

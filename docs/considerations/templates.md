@@ -2,20 +2,20 @@
 cover:
 description: A look at using templates to capture boilerplate bits of messaging
 ---
-![Templates](../assets/img/headers/SHComms-Template.png)
+![Templates](/assets/images/headers/SHComms-Template.png)
 
 !!! tip
     For this section, it helps to refer back to past examples of stakeholder communications that were considered effective and
     useful. Look for the patterns in those messages as a starting place for determining internal stakeholder messaging needs.
 
-In order to be effective during an incident, internal stakeholder communications must be both accurate and fast. Templatizing and automating notifications ahead of a major incident can help you move fast and minimize errors. 
+In order to be effective during an incident, internal stakeholder communications must be both accurate and fast. Templatizing and automating notifications ahead of a major incident can help you move fast and minimize errors.
 
-For example, emails can be generated from templates that include: 
-- Boilerplate language to use when talking to customers about an incident 
-- Helpful resources that recipients can use to drill down for more information 
-- Other information handy for helping them understand how to react to the incident. 
+For example, emails can be generated from templates that include:
+- Boilerplate language to use when talking to customers about an incident
+- Helpful resources that recipients can use to drill down for more information
+- Other information handy for helping them understand how to react to the incident.
 
-Templates can include things like: 
+Templates can include things like:
 - Links to incident details
 - Links to internal status pages
 - Information about how to join the incident response chat channel or call bridge.
