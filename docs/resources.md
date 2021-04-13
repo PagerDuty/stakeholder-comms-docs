@@ -1,4 +1,4 @@
-![Going Beyond](../assets/img/headers/SHComms-Resources.png)
+![Going Beyond](/assets/images/headers/SHComms-Resources.png)
 
 ## Further Reading
 

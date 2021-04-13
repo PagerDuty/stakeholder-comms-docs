@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/SHComms-Title.png)
+![PagerDuty](/assets/images/headers/SHComms-Title.png)
 
 Technical incidents can create chaos when stakeholder notifications are not effectively managed in an organization. During an incident, internal stakeholder communications proactively provide situational awareness and transparency around its customer impact. This guide provides a framework of critical recommended practices that can be used to help you create your own process for composing and distributing internal stakeholder communications during technical incidents.
 

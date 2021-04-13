@@ -2,7 +2,7 @@
 cover:
 description: Messaging guidelines to follow during the incident Investigation phase
 ---
-![Monitoring](../assets/img/headers/SHComms-Monitoring.png)
+![Monitoring](/assets/images/headers/SHComms-Monitoring.png)
 
 The monitoring stage occurs when a remediation has taken place, but an incident has not yet been verified to be resolved. During the monitoring stage, incident responders will validate and confirm the fix was successful.
 
