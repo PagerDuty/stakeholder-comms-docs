@@ -11,16 +11,16 @@ This guide presumes that your organization has a technical incident response pla
 ### Definitions
 This section covers a few key concepts for clarity.
 
-- [Internal Stakeholder Communications](definitions.md)
-- [The Internal Liaison](definitions.md)
+- [Internal Stakeholder Communications](definitions.md#internal-stakeholder-communications)
+- [The Internal Liaison](definitions.md#the-internal-liaison)
 
 ### Mechanisms for internal communications
 Effective internal stakeholder communications requires actually getting your stakeholders attention. Incident update notifications can be sent over a variety of channels. This section looks at common communication channels along with their strengths and drawbacks.
 
-- [Email](mechanisms.md)
-- [Chat Messages](mechanisms.md)
-- [Incident Alerts](mechanisms.md)
-- [Internal Status Page](mechanisms.md)
+- [Email](mechanisms.md#email)
+- [Chat Messages](mechanisms.md#chat-messages)
+- [Incident Alerts](mechanisms.md#incident-alerts)
+- [Internal Status Page](mechanisms.md#incident-status-page)
 
 ### Considerations for drafting internal communications
 Creating a comprehensive strategy for managing internal stakeholder communications requires planning before an incident to develop messaging guidelines. This section walks you through creating a plan for managing internal stakeholder communications before an incident occurs.
